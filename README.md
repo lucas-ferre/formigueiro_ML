@@ -3,7 +3,7 @@
 Um ambiente interativo e educacional em Python para exploração e visualização em tempo real de **Otimização por Colônia de Formigas (*Ant Colony Optimization - ACO*)** e Inteligência de Enxame (*Swarm Intelligence*).
 
 <p align="center">
-  <img src="formigas.gif" alt="Demonstração do Formigueiro ML" width="750" />
+  <img src="formigas.gif" alt="Demonstração do Formigueiro ML" width="340" />
 </p>
 ---
 
